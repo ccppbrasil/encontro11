@@ -1,0 +1,3 @@
+[submodule "stack-protection"]
+	path = RodrigoAlmeida
+	url = https://github.com/rmaalmeida/stack-protection.git
