@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>nebula.jpg</file>
+        <file>busy.png</file>
+        <file>GridDelegate.qml</file>
+    </qresource>
+</RCC>
