@@ -1,3 +1,6 @@
 [submodule "stack-protection"]
 	path = RodrigoAlmeida
 	url = https://github.com/rmaalmeida/stack-protection.git
+[submodule "AndreTupinamba/src"]
+	path = AndreTupinamba/src
+	url = https://github.com/andrelrt/boostSimdTest.git
